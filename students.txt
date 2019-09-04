@@ -1,0 +1,16 @@
+Name: First Name M Last 
+DOB: DOB [day=11, month=11, year=11]
+Adress: 11, Street St Type, City, AA,11
+Smokes: No
+ Gender: F
+ Major: 11
+ GPA: 1.00
+ Credits Completed: 11.0
+Name: a M Last 
+DOB: DOB [day=11, month=11, year=11]
+Adress: 11, Street St Type, City, AA,11
+Smokes: No
+ Gender: F
+ Major: aa
+ GPA: 1.00
+ Credits Completed: 11.0
